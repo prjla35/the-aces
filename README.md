@@ -1,6 +1,6 @@
 # The Aces Website
 
-Welcome to The Aces website repository! This website is based around a student council theme and provides a platform for students from different areas to communicate with each other and have fun.
+Welcome to The Aces website repository! This website is based around a community theme and provides a platform for peoples from different areas to communicate with each other and have fun.
 
 ## Table of Contents
 
